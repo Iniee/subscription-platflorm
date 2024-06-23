@@ -12,7 +12,7 @@ This project implements a simple subscription platform using RESTful APIs in PHP
 ## Installation Instructions
 
 1. **Clone the repository:**
-   git clone https://github.com/your-username/subscription-platform.git
+   git clone https://github.com/Iniee/subscription-platflorm.git
    cd subscription-platform
 
 2. **Install dependencies:**
@@ -95,4 +95,4 @@ This project implements a simple subscription platform using RESTful APIs in PHP
 
 ## Repository
 
-The code is publicly available on GitHub: [https://github.com/your-username/subscription-platform](https://github.com/your-username/subscription-platform)
+The code is publicly available on GitHub: [https://github.com/Iniee/subscription-platflorm.git](https://github.com/Iniee/subscription-platflorm.git)
